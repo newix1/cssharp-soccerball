@@ -1,0 +1,12 @@
+D:\Soccerball\Soccerball\bin\Debug\net7.0\Soccerball.deps.json
+D:\Soccerball\Soccerball\bin\Debug\net7.0\Soccerball.dll
+D:\Soccerball\Soccerball\bin\Debug\net7.0\Soccerball.pdb
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.csproj.AssemblyReference.cache
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.AssemblyInfoInputs.cache
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.AssemblyInfo.cs
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.csproj.CoreCompileInputs.cache
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.dll
+D:\Soccerball\Soccerball\obj\Debug\net7.0\refint\Soccerball.dll
+D:\Soccerball\Soccerball\obj\Debug\net7.0\Soccerball.pdb
+D:\Soccerball\Soccerball\obj\Debug\net7.0\ref\Soccerball.dll
