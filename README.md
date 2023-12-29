@@ -21,7 +21,7 @@ P.S.:
 Since ent_create does not work on the server and asks FCVAR_CLIENT_CAN_EXECUTE, I decided to make a soccer ball spawn plugin for myself. Perhaps it will be useful to someone as an example of using Utilities.CreateEntityByName 😉
 
 TODO:
-- HTML color selection 🎨
+- Spawn soccer balls not only on Dust2
 
 ## 📃 License
 
