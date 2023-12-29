@@ -3,7 +3,9 @@ A simple plugin on Cssharp that allows you to spawn soccer ball.
 
 ## ⭐ Features
 
-- Spawn proper physics red balls on command !sb
+- Spawn proper physics soccer balls on command !sb or !sb1 - !sb10 for colored soccer balls
+- Spawn custom RGB color of ball with command !sb_rgb (RED GREEN BLUE) Example: !sb_rgb 255 0 255
+- To use the plugin commands, you must have the @css/root flag
 
 ## 🔧 Installation
 
